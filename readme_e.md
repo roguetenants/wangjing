@@ -1,4 +1,4 @@
-chinese version: https://github.com/roguetenants/wangjing/tenant
+chinese version: https://github.com/roguetenants/wangjing
 
 Recently many friends asked me about what happened to my house. Here is my story:
 
