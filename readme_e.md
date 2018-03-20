@@ -1,4 +1,5 @@
-chinese version: https://github.com/roguetenants/wangjing/blob/master/README.md
+Chinese version: https://github.com/roguetenants/wangjing/blob/master/README.md
+
 Recently many friends asked me about what happened to my house. Here is my story:
 
 1.	in 2016, most of my family went to China. Only I would stay in US. I decided to move to a smaller apartment, closer to my office, while rented this house out. Since my kids would come back in Semptember 2017, I made the lease end in August 2017.
