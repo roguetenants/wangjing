@@ -2,7 +2,10 @@
 
 1.	在2016年，家里大部分人都去了中国，只有我还在美国。我用不着一个人住这么大，就搬到了一个公寓，离上班地方近一些，空着的房子租出去。因为孩子们今年（2017）9月份还要回来上学，所以租约定在8月底结束。 
 
-2.	2016年3月，经过朋友介绍找到了现在的房客。男的叫邹家森，女的叫王静。![王静] (https://github.com/roguetenants/wangjing/blob/master/wangjing.jpg) ![邹家森](https://github.com/roguetenants/wangjing/blob/master/zou.jpg)
+2.	2016年3月，经过朋友介绍找到了现在的房客。男的叫邹家森，女的叫王静。
+![王静](https://github.com/roguetenants/wangjing/blob/master/wangjing.jpg） 
+![王静](https://github.com/roguetenants/wangjing/blob/master/wangjing.jpg)
+![邹家森](https://github.com/roguetenants/wangjing/blob/master/zou.jpg)
 
 他们说要用我的房子开幼儿园。我说我同意但是他们要保证所有手续都合法。而且我不想再找地方放我的东西，我要求我的东西仍然留在房子里，他们可以使用，但是应该保持完好状态因为租约结束后我还要用。我们把这些条款都写在了租约里。
 
