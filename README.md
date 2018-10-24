@@ -1,4 +1,3 @@
-English version: https://github.com/roguetenants/wangjing/blob/master/readme_e.md
 
 最近很多关心我的朋友问我那个出租的房子是怎么回事。这段时间实在太忙，现在把这事前前后后记录一下，就不一一回复了。多谢大家关心！
 
